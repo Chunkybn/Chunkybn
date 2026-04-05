@@ -14,10 +14,8 @@ Digital Strategy:Leveraging visual content for high-impact social media marketin
 
 ---
 
- 🎥 Featured Work
-[![Watch my Portfolio](https://img.shields.io/badge/YouTube-View_My_Reel-red?style=for-the-badge&logo=youtube)
-[![View Photography](https://img.shields.io/badge/Behance-Photography_Portfolio-blue?style=for-the-badge&logo=behance)
-
+ 🎥 Connect With My Work
+[Instagram](https://img.shields.io/badge/Instagram-@raw__wildlife__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/raw_wildlife_?igsh=MXFpcThleGl5aG43NA==)
 ---
 
  🚀 What I'm Working On in 2026
